@@ -5,7 +5,7 @@ Hello everyone!
 
 This is a personal website that I worked on as apart of the scrimba frontend development course. 
 
-I used the following technologies to build his website:
-- HTML
--CSS
--Javascript 
+I used the following technologies to build this website:
+- HTML </n>
+-CSS</n>
+-Javascript</n>
